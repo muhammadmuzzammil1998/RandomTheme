@@ -2,7 +2,7 @@
 A simple php script to load random color codes for meta tag's attribute theme-color.
 # [Preview](http://98.hol.es/git/randomTheme/).
 # What is this?
-A script that randomly selects your theme-color and sets it as theme-color attribute's value in meta tag inside the head tag.
+A script that randomly selects your theme-color and sets it as theme-color attribute's value in meta tag inside the head tag on every load.
 # Liscense
 MIT License
 
