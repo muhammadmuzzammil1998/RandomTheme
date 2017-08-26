@@ -1,6 +1,6 @@
 # RandomTheme
 A simple php script to load random color codes for meta tag's attribute theme-color.
-# [Preview](http://www.muzzammil.xyz/git/randomTheme/).
+# [Preview](http://git.muzzammil.xyz/randomTheme/).
 # What is this?
 A script that randomly selects your theme-color and sets it as theme-color attribute's value in meta tag inside the head tag on every load.
 # Liscense
